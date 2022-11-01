@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purnendu Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" width="400"src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 - 🌱 I’m currently learning **Java,Python,SpringBoot,Angular,Web Devlopment,Core PHP,SQL**
 
