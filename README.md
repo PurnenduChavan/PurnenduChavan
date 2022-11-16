@@ -47,7 +47,7 @@
 
 
 
-<div class="grid-container">
+<div class="grid-container" style="display :grid">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
