@@ -19,25 +19,37 @@
 
 
 <div class="row">
-  <div class="column">
+  <div class="" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   </div>
-  <div class="column">
+  <div class=""style="float: left;
+  width: 33.33%;
+  padding: 5px;">
    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   </div>
-  <div class="column">
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   </div>
   
   
   <div class="row">
-  <div class="column">
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   </div>
-  <div class="column">
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   </div>
-  <div class="column">
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   </div>
   
@@ -47,17 +59,3 @@
 
 
 
-<div class="grid-container" style="display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #2196F3;
-  padding: 10px;">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>
-</div>
