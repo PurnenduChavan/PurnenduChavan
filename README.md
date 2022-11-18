@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
+
 
 <h1 align="center">Hi 👋, I'm Purnendu Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
