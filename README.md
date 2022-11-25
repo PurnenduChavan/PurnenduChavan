@@ -47,7 +47,7 @@
 
 
 <h1>Resume Link</h1>
-<a href="https://drive.google.com/file/d/1_pVWkJMw0geDsKfOIKR2cfvqwKSFr2KV/view?usp=share_link">https://drive.google.com/file/d/1_pVWkJMw0geDsKfOIKR2cfvqwKSFr2KV/view?usp=share_link</a>
+<a traget="_blank" href="https://drive.google.com/file/d/1_pVWkJMw0geDsKfOIKR2cfvqwKSFr2KV/view?usp=share_link">https://drive.google.com/file/d/1_pVWkJMw0geDsKfOIKR2cfvqwKSFr2KV/view?usp=share_link</a>
 
 
 
