@@ -1,9 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Purnendu Chavan</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400"src="https://holographtechnologies.com/wp-content/uploads/2021/07/image.jpg">
+
+<h3 align="center">A passionate Full Stack developer from India</h3><br>
+
 <hr>
+<img align="right" width="500"src="https://holographtechnologies.com/wp-content/uploads/2021/07/image.jpg"><br><br><br><br>
+<hr><br>
 <img align="right" width="400"src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 
