@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Purnendu Chavan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400"src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <img align="right" width="400"src="https://holographtechnologies.com/wp-content/uploads/2021/07/image.jpg">
+<hr>
+<img align="right" width="400"src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 
 - 🌱 I’m currently learning **Java,Atlassian products and Devops**
