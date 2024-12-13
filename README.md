@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnendu Chavan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Atlassian Product Expert</h3>
 <br>
 
 ---
